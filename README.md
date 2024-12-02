@@ -1,4 +1,4 @@
-# Привет меня зовут, Владислав 👋
+![image](https://github.com/user-attachments/assets/53fc27ec-21ce-459c-ac1e-c693f8289d05)# Привет меня зовут, Владислав 👋
 
 Я начинающий веб-разработчик с опытом работы в изучении JavaScript и веб-технологий. Мне 30 лет, и я погрузился в мир веб-разработки около года назад, когда не был доволен качеством конечного продукта — сайта, связанного с производством декоративных реек. Этот опыт стал для меня толчком к изучению новых технологий и принципов веб-разработки.
 
@@ -29,10 +29,10 @@
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   JavaScript (начальный уровень)
+*   HTML и CSS (включая семантическую вёрстку)
+*   React (начальный уровень)
+*   TailwindCSS
 *   GitHub/GitLab/Gerrit/Bitbucket
 
 ### My opensource projects
